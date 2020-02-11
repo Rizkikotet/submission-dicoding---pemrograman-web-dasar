@@ -1,0 +1,2 @@
+    document.getElementById("post-info").innerHTML = "<marquee>Diposting Oleh <b>Muhammad Abdul Rizki</b><marquee>";
+    document.getElementById("post-info2").innerHTML = "<marquee>Diposting Oleh <b>Saiful Anwar</b><marquee>";
